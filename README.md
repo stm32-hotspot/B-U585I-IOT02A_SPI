@@ -61,7 +61,7 @@
 
 ## How to use
 * Clone the repo
-* Open B-U585I-IOT02A_SPI_STMOD_2.ioc file with [STM32CUbeMX](https://www.st.com/stm32cubemx) and generate the project 
+* Open B-U585I-IOT02A_SPI.ioc file with [STM32CUbeMX](https://www.st.com/stm32cubemx) and generate the project 
 * Open the generated project with [STM32CubeIDE](https://www.st.com/stm32cubeide)
 * Build and run the example
 
